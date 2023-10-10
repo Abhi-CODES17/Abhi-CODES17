@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhi-CODES17
 - 👀 I’m interested in Coding through C and C++
-- 🌱 I’m currently learning C++
+- 🤖 Interested in collaborate on projects containing embedded programming and ROS
+- 🌱 I’m currently learning JSP
 - 💞️ I’m looking to collaborate on Any project in C or C++
 - 📫 How to reach me - Reach me through Email-id abhishekspawar2003@gmail.com
 <!---
